@@ -1,0 +1,7 @@
+D:\Git\Projects_1\testUnity\VisStud\Cons\Cons\bin\Debug\Cons.exe.config
+D:\Git\Projects_1\testUnity\VisStud\Cons\Cons\bin\Debug\Cons.exe
+D:\Git\Projects_1\testUnity\VisStud\Cons\Cons\bin\Debug\Cons.pdb
+D:\Git\Projects_1\testUnity\VisStud\Cons\Cons\obj\Debug\Cons.csprojAssemblyReference.cache
+D:\Git\Projects_1\testUnity\VisStud\Cons\Cons\obj\Debug\Cons.csproj.CoreCompileInputs.cache
+D:\Git\Projects_1\testUnity\VisStud\Cons\Cons\obj\Debug\Cons.exe
+D:\Git\Projects_1\testUnity\VisStud\Cons\Cons\obj\Debug\Cons.pdb
